@@ -12,7 +12,7 @@ const inter = Inter({
 });
 
 // This is the chain your dApp will work on.
-const activeChain = BaseGoerli;
+const activeChain = Polygon;
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
