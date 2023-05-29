@@ -1,4 +1,4 @@
-import { BaseGoerli } from "@thirdweb-dev/chains";
+import { Polygon } from "@thirdweb-dev/chains";
 import { ThirdwebProvider } from "@thirdweb-dev/react";
 import type { AppProps } from "next/app";
 import { Inter } from "next/font/google";
